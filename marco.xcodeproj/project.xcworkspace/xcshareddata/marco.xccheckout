@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>95DCB1BC-1A01-410C-B8E7-44A1D031ABB1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>marco</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DE446A0E-92F5-45F3-95B9-73494E1BC0DD</key>
+		<string>https://github.com/Razorfish-Central/sxsw-usemeleaveme.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AppDetails/marco.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DE446A0E-92F5-45F3-95B9-73494E1BC0DD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Razorfish-Central/sxsw-usemeleaveme.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DE446A0E-92F5-45F3-95B9-73494E1BC0DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DE446A0E-92F5-45F3-95B9-73494E1BC0DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sxsw-usemeleaveme</string>
+		</dict>
+	</array>
+</dict>
+</plist>
