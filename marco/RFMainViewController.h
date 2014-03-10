@@ -10,20 +10,15 @@
 #import <FYX/FYX.h>
 #import <FYX/FYXVisitManager.h>
 
+
 @interface RFMainViewController : UIViewController <FYXServiceDelegate, FYXVisitDelegate, NSURLSessionDataDelegate, NSURLSessionDelegate, UIAlertViewDelegate>
+//setting your delegates for your class very important. https://gimbal.com/doc/ios_quickstart.html
 
 @property (nonatomic, strong) NSMutableArray *jsonArray;
+//declare array to use for incoming json file from php page.
 
-@property (nonatomic, strong) NSString *bName;
-@property (nonatomic, strong) NSString *bMessage;
-@property (nonatomic, strong) NSString *eName;
-@property (nonatomic, strong) NSString *eLat;
-@property (nonatomic, strong) NSString *eLong;
-@property (nonatomic, strong) NSString *qID;
-@property (nonatomic, strong) NSString *onQuest;;
-
-@property (strong, nonatomic) IBOutlet UIImageView *theImage;
-
+- (IBAction)btnStart:(id)sender;
+- (IBAction)btnStop:(id)sender;
 
 
 @end

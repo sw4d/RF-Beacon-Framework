@@ -15,7 +15,7 @@
 {
     // Override point for customization after application launch.
     [FYX setAppId:@"e50387188cf1b32446b07da97a10e4417dbfc00d36286e0c15f608eb2ca4f1e2" appSecret:@"941c7fce6c9ddb7c88bd610313b5fda622cbe16cdb96c2ce3d113ee7a4456efc" callbackUrl:@"tourdemointernal://authcode"];
-    
+    //you will likely replace these values after you register your own application with Gimbal.com. It is HIGHLY recomended you read their quickstart guide since this is not the only place you'll need to replace some values to ensure everything works properly. https://gimbal.com/doc/ios_quickstart.html
     
     return YES;
 }
