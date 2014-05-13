@@ -254,7 +254,7 @@
 			attributes = {
 				CLASSPREFIX = RF;
 				LastUpgradeCheck = 0500;
-				ORGANIZATIONNAME = "Stephen Ford";
+				ORGANIZATIONNAME = Razorfish;
 				TargetAttributes = {
 					0A87C3B018A43F570038E93A = {
 						SystemCapabilities = {
@@ -268,7 +268,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0A87C3AC18A43F570038E93A /* Build configuration list for PBXProject "marco" */;
+			buildConfigurationList = 0A87C3AC18A43F570038E93A /* Build configuration list for PBXProject "Beacon Framework" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -536,7 +536,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0A87C3AC18A43F570038E93A /* Build configuration list for PBXProject "marco" */ = {
+		0A87C3AC18A43F570038E93A /* Build configuration list for PBXProject "Beacon Framework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0A87C3E418A43F570038E93A /* Debug */,
