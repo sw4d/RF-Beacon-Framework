@@ -28,11 +28,14 @@
 		0A87C3F518A43FC70038E93A /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A87C3F418A43FC70038E93A /* MapKit.framework */; };
 		0A87C3F718A43FD00038E93A /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A87C3F618A43FD00038E93A /* Security.framework */; };
 		0ACBD02C18ABDBC5004F04F8 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0ACBD02B18ABDBC5004F04F8 /* Social.framework */; };
-		47770DC118AE7F6F00746045 /* Common.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47770DC018AE7F6F00746045 /* Common.framework */; };
-		47770DC318AE7F7C00746045 /* ContextCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47770DC218AE7F7C00746045 /* ContextCore.framework */; };
-		47770DC518AE7F8600746045 /* ContextLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47770DC418AE7F8600746045 /* ContextLocation.framework */; };
-		47770DC718AE7F9000746045 /* FYX.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47770DC618AE7F9000746045 /* FYX.framework */; };
-		47770DC918AE7F9800746045 /* NetworkServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47770DC818AE7F9800746045 /* NetworkServices.framework */; };
+		47D80EBA19228D2500DA5A20 /* Common.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47D80EA919228D2500DA5A20 /* Common.framework */; };
+		47D80EBB19228D2500DA5A20 /* ContextCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47D80EAC19228D2500DA5A20 /* ContextCore.framework */; };
+		47D80EBC19228D2500DA5A20 /* ContextLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47D80EAF19228D2500DA5A20 /* ContextLocation.framework */; };
+		47D80EBD19228D2500DA5A20 /* DataModels.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 47D80EB119228D2500DA5A20 /* DataModels.bundle */; };
+		47D80EBE19228D2500DA5A20 /* ContextProfiling.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47D80EB319228D2500DA5A20 /* ContextProfiling.framework */; };
+		47D80EBF19228D2500DA5A20 /* rules.txt in Resources */ = {isa = PBXBuildFile; fileRef = 47D80EB519228D2500DA5A20 /* rules.txt */; };
+		47D80EC019228D2500DA5A20 /* FYX.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47D80EB619228D2500DA5A20 /* FYX.framework */; };
+		47D80EC119228D2500DA5A20 /* NetworkServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 47D80EB819228D2500DA5A20 /* NetworkServices.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,11 +75,14 @@
 		0A87C3F418A43FC70038E93A /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		0A87C3F618A43FD00038E93A /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		0ACBD02B18ABDBC5004F04F8 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
-		47770DC018AE7F6F00746045 /* Common.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Common.framework; path = frameworks/Common.embeddedframework/Common.framework; sourceTree = "<group>"; };
-		47770DC218AE7F7C00746045 /* ContextCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ContextCore.framework; path = frameworks/ContextCore.embeddedframework/ContextCore.framework; sourceTree = "<group>"; };
-		47770DC418AE7F8600746045 /* ContextLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ContextLocation.framework; path = frameworks/ContextLocation.embeddedframework/ContextLocation.framework; sourceTree = "<group>"; };
-		47770DC618AE7F9000746045 /* FYX.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FYX.framework; path = frameworks/FYX.embeddedframework/FYX.framework; sourceTree = "<group>"; };
-		47770DC818AE7F9800746045 /* NetworkServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkServices.framework; path = frameworks/NetworkServices.embeddedframework/NetworkServices.framework; sourceTree = "<group>"; };
+		47D80EA919228D2500DA5A20 /* Common.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Common.framework; sourceTree = "<group>"; };
+		47D80EAC19228D2500DA5A20 /* ContextCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ContextCore.framework; sourceTree = "<group>"; };
+		47D80EAF19228D2500DA5A20 /* ContextLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ContextLocation.framework; sourceTree = "<group>"; };
+		47D80EB119228D2500DA5A20 /* DataModels.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DataModels.bundle; sourceTree = "<group>"; };
+		47D80EB319228D2500DA5A20 /* ContextProfiling.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ContextProfiling.framework; sourceTree = "<group>"; };
+		47D80EB519228D2500DA5A20 /* rules.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rules.txt; sourceTree = "<group>"; };
+		47D80EB619228D2500DA5A20 /* FYX.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FYX.framework; path = frameworks/FYX.framework; sourceTree = "<group>"; };
+		47D80EB819228D2500DA5A20 /* NetworkServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = NetworkServices.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,17 +90,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47770DC118AE7F6F00746045 /* Common.framework in Frameworks */,
-				47770DC918AE7F9800746045 /* NetworkServices.framework in Frameworks */,
-				47770DC518AE7F8600746045 /* ContextLocation.framework in Frameworks */,
+				47D80EBA19228D2500DA5A20 /* Common.framework in Frameworks */,
+				47D80EBC19228D2500DA5A20 /* ContextLocation.framework in Frameworks */,
 				0ACBD02C18ABDBC5004F04F8 /* Social.framework in Frameworks */,
+				47D80EC119228D2500DA5A20 /* NetworkServices.framework in Frameworks */,
+				47D80EC019228D2500DA5A20 /* FYX.framework in Frameworks */,
 				0A87C3F718A43FD00038E93A /* Security.framework in Frameworks */,
-				47770DC718AE7F9000746045 /* FYX.framework in Frameworks */,
 				0A87C3F518A43FC70038E93A /* MapKit.framework in Frameworks */,
 				0A87C3F318A43FC00038E93A /* libz.dylib in Frameworks */,
 				0A87C3F118A43FB40038E93A /* CoreData.framework in Frameworks */,
 				0A87C3EF18A43FAC0038E93A /* CoreLocation.framework in Frameworks */,
-				47770DC318AE7F7C00746045 /* ContextCore.framework in Frameworks */,
+				47D80EBB19228D2500DA5A20 /* ContextCore.framework in Frameworks */,
+				47D80EBE19228D2500DA5A20 /* ContextProfiling.framework in Frameworks */,
 				0A87C3ED18A43FA30038E93A /* CoreBluetooth.framework in Frameworks */,
 				0A87C3B718A43F570038E93A /* CoreGraphics.framework in Frameworks */,
 				0A87C3B918A43F570038E93A /* UIKit.framework in Frameworks */,
@@ -144,11 +151,12 @@
 		0A87C3B318A43F570038E93A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				47770DC818AE7F9800746045 /* NetworkServices.framework */,
-				47770DC618AE7F9000746045 /* FYX.framework */,
-				47770DC418AE7F8600746045 /* ContextLocation.framework */,
-				47770DC218AE7F7C00746045 /* ContextCore.framework */,
-				47770DC018AE7F6F00746045 /* Common.framework */,
+				47D80EA819228D2500DA5A20 /* Common.embeddedframework */,
+				47D80EAB19228D2500DA5A20 /* ContextCore.embeddedframework */,
+				47D80EAE19228D2500DA5A20 /* ContextLocation.embeddedframework */,
+				47D80EB219228D2500DA5A20 /* ContextProfiling.embeddedframework */,
+				47D80EB619228D2500DA5A20 /* FYX.framework */,
+				47D80EB719228D2500DA5A20 /* NetworkServices.embeddedframework */,
 				0ACBD02B18ABDBC5004F04F8 /* Social.framework */,
 				0A87C3F618A43FD00038E93A /* Security.framework */,
 				0A87C3F418A43FC70038E93A /* MapKit.framework */,
@@ -206,6 +214,93 @@
 				0A87C3DF18A43F570038E93A /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		47D80EA819228D2500DA5A20 /* Common.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EA919228D2500DA5A20 /* Common.framework */,
+				47D80EAA19228D2500DA5A20 /* Resources */,
+			);
+			name = Common.embeddedframework;
+			path = frameworks/Common.embeddedframework;
+			sourceTree = "<group>";
+		};
+		47D80EAA19228D2500DA5A20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		47D80EAB19228D2500DA5A20 /* ContextCore.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EAC19228D2500DA5A20 /* ContextCore.framework */,
+				47D80EAD19228D2500DA5A20 /* Resources */,
+			);
+			name = ContextCore.embeddedframework;
+			path = frameworks/ContextCore.embeddedframework;
+			sourceTree = "<group>";
+		};
+		47D80EAD19228D2500DA5A20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		47D80EAE19228D2500DA5A20 /* ContextLocation.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EAF19228D2500DA5A20 /* ContextLocation.framework */,
+				47D80EB019228D2500DA5A20 /* Resources */,
+			);
+			name = ContextLocation.embeddedframework;
+			path = frameworks/ContextLocation.embeddedframework;
+			sourceTree = "<group>";
+		};
+		47D80EB019228D2500DA5A20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EB119228D2500DA5A20 /* DataModels.bundle */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		47D80EB219228D2500DA5A20 /* ContextProfiling.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EB319228D2500DA5A20 /* ContextProfiling.framework */,
+				47D80EB419228D2500DA5A20 /* Resources */,
+			);
+			name = ContextProfiling.embeddedframework;
+			path = frameworks/ContextProfiling.embeddedframework;
+			sourceTree = "<group>";
+		};
+		47D80EB419228D2500DA5A20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EB519228D2500DA5A20 /* rules.txt */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		47D80EB719228D2500DA5A20 /* NetworkServices.embeddedframework */ = {
+			isa = PBXGroup;
+			children = (
+				47D80EB819228D2500DA5A20 /* NetworkServices.framework */,
+				47D80EB919228D2500DA5A20 /* Resources */,
+			);
+			name = NetworkServices.embeddedframework;
+			path = frameworks/NetworkServices.embeddedframework;
+			sourceTree = "<group>";
+		};
+		47D80EB919228D2500DA5A20 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -295,6 +390,8 @@
 				0A87C3D018A43F570038E93A /* Images.xcassets in Resources */,
 				0A87C3BF18A43F570038E93A /* InfoPlist.strings in Resources */,
 				0A87C3C818A43F570038E93A /* Main.storyboard in Resources */,
+				47D80EBD19228D2500DA5A20 /* DataModels.bundle in Resources */,
+				47D80EBF19228D2500DA5A20 /* rules.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -451,11 +548,12 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					frameworks/Common.embeddedframework,
-					frameworks/ContextCore.embeddedframework,
-					frameworks/ContextLocation.embeddedframework,
-					frameworks/FYX.embeddedframework,
-					frameworks/NetworkServices.embeddedframework,
+					"$(PROJECT_DIR)/frameworks/Common.embeddedframework",
+					"$(PROJECT_DIR)/frameworks/ContextCore.embeddedframework",
+					"$(PROJECT_DIR)/frameworks/ContextLocation.embeddedframework",
+					"$(PROJECT_DIR)/frameworks/ContextProfiling.embeddedframework",
+					"$(PROJECT_DIR)/frameworks",
+					"$(PROJECT_DIR)/frameworks/NetworkServices.embeddedframework",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "marco/marco-Prefix.pch";
@@ -476,11 +574,12 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					frameworks/Common.embeddedframework,
-					frameworks/ContextCore.embeddedframework,
-					frameworks/ContextLocation.embeddedframework,
-					frameworks/FYX.embeddedframework,
-					frameworks/NetworkServices.embeddedframework,
+					"$(PROJECT_DIR)/frameworks/Common.embeddedframework",
+					"$(PROJECT_DIR)/frameworks/ContextCore.embeddedframework",
+					"$(PROJECT_DIR)/frameworks/ContextLocation.embeddedframework",
+					"$(PROJECT_DIR)/frameworks/ContextProfiling.embeddedframework",
+					"$(PROJECT_DIR)/frameworks",
+					"$(PROJECT_DIR)/frameworks/NetworkServices.embeddedframework",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "marco/marco-Prefix.pch";

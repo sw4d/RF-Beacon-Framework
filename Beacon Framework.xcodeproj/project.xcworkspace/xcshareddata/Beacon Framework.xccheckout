@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD4FD5A8-C894-40F6-B2C7-041E0C2DC851</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Beacon Framework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1B82535B-7F12-4E9D-905A-03C7CA88CAF4</key>
+		<string>https://github.com/Razorfish-Central/RF-Beacon-Framework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Beacon Framework.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1B82535B-7F12-4E9D-905A-03C7CA88CAF4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Razorfish-Central/RF-Beacon-Framework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1B82535B-7F12-4E9D-905A-03C7CA88CAF4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1B82535B-7F12-4E9D-905A-03C7CA88CAF4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RF-Beacon-Framework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
